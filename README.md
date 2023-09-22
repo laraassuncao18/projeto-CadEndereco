@@ -6,4 +6,4 @@ Fontes utilizadas
 * https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Regular_expressions
 * https://www.regexpal.com/
 * https://getbootstrap.comhttps/docs/5.3/forms/layout/
-[gif](gif/Gravando-2023-09-20-124922%20(1).gif)
+![gif](gif/Gravando-2023-09-20-124922%20(1).gif)
