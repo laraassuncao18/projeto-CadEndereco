@@ -16,6 +16,6 @@ codigo feito em sala uma tela de endereço,pego no bootstrap apagado linhas desn
   # ✿♥‿♥✿ colegas que ajudaram:
 
   * [emilly](https://github.com/emillycaaroline)
-  * [vitoria]](https://github.com/vickieww)
+  * [vitoria](https://github.com/vickieww)
  
  
