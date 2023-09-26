@@ -11,7 +11,7 @@ codigo feito em sala uma tela de endereço,pego no bootstrap apagado linhas desn
 
  #  (◡‿◡✿)autores:
  * (instrutor)[https://github.com/LeonardoRochaMarista]
- * (lara)[https//github.com/laraassuncao18]
+ * (lara)[https://github.com/laraassuncao18]
 
   # ✿♥‿♥✿ colegas que ajudaram:
 
