@@ -27,3 +27,12 @@ const preencherFormulario = (endereco) =>{
 
 
 }
+/*função para consumo de API utilizando a função do tipo assimcrona*/
+
+const pesquisarcep = async() =>{
+
+    LimparFormulario();
+
+    const url = `http://viacep.com.br/ws/${cep.value}/json/`;
+
+}
