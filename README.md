@@ -12,19 +12,19 @@ Codigo feito em sala uma tela de endereço, pego no bootstrap apagado linhas des
 
 ![gif](gif/Gravando-2023-09-20-124922%20(1).gif)
 
-# 💗 Onde pegamos o codigo: 
+## 💗 Onde pegamos o codigo: 
 [link](https://getbootstrap.com/docs/5.3/forms/layout/)
 
-# 💋 Como ficou a pagina:
+## 💋 Como ficou a pagina:
 
 ![gif](gif2/Gravando%202023-10-03%20082027.gif)
 
- # (◡‿◡✿) Autores:
+ ## (◡‿◡✿) Autores:
 
  * [Instrutor](https://github.com/LeonardoRochaMarista)
  * [Lara](https://github.com/laraassuncao18)
 
- # ✿♥‿♥✿ Colegas que ajudaram:
+ ## ✿♥‿♥✿ Colegas que ajudaram:
 
   * [Emilly](https://github.com/emillycaaroline)
   * [Vitoria](https://github.com/vickieww)
