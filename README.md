@@ -8,10 +8,12 @@ Codigo feito em sala uma tela de endereço, pego no bootstrap apagado linhas des
 * [Getbootstrap](https://getbootstrap.comhttps/docs/5.3/forms/layout/)
 * [Link](https://viacep.com.br/exemplo/javascript/)
 
-
 ![gif](gif/Gravando-2023-09-20-124922%20(1).gif)
 
-## Onde pegamos o codigo: [link](https://getbootstrap.com/docs/5.3/forms/layout/)
+## Onde pegamos o codigo: 
+[link](https://getbootstrap.com/docs/5.3/forms/layout/)
+
+## Como ficou a pagina:
 
 ![gif](gif2/Gravando%202023-10-03%20082027.gif)
 
