@@ -13,7 +13,7 @@ Codigo feito em sala uma tela de endereço, pego no bootstrap apagado linhas des
 
 ## Onde pegamos o codigo: [link](https://getbootstrap.com/docs/5.3/forms/layout/)
 
-![gif]()
+![gif](gif2/Gravando%202023-10-03%20082027.gif)
 
  #  (◡‿◡✿) Autores:
  * [Instrutor](https://github.com/LeonardoRochaMarista)
